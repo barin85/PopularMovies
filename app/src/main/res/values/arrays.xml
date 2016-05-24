@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sortListArray">
+        <item>popularity.desc</item>
+        <item>vote_average.desc</item>
+    </string-array>
+    <string-array name="sortLabelsListArray">
+        <item>by most popular</item>
+        <item>by highest-rated</item>
+    </string-array>
+</resources>
